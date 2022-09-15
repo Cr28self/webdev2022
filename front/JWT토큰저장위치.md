@@ -1,6 +1,6 @@
-1. HTML5 Web Storage(LocalStorage 또는 SessionStorage)
+# 1. HTML5 Web Storage(LocalStorage 또는 SessionStorage)
 
-2. Cookie
+# 2. Cookie
 
  
 
