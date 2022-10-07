@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/revolve" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-boot-project" vcs="Git" />
   </component>
 </project>
