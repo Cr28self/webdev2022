@@ -10,10 +10,6 @@
 
 
 
-  ![Top_Gun](./asset/Top-Gun-Maverick.png)
-
-- [google](https://www.google.co.kr/  )
-
 
 ```
 console.log('hello world');
